@@ -1,0 +1,11 @@
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\bin\Debug\netcoreapp2.0\Challenge2.deps.json
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\bin\Debug\netcoreapp2.0\Challenge2.runtimeconfig.json
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\bin\Debug\netcoreapp2.0\Challenge2.runtimeconfig.dev.json
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\bin\Debug\netcoreapp2.0\Challenge2.dll
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\bin\Debug\netcoreapp2.0\Challenge2.pdb
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.csprojAssemblyReference.cache
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.AssemblyInfoInputs.cache
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.AssemblyInfo.cs
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.dll
+C:\Users\tthoraldson\Desktop\Learning C#\Challenge2\Challenge2\obj\Debug\netcoreapp2.0\Challenge2.pdb
