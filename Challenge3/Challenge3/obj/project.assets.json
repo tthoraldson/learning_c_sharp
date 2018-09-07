@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge2\\Challenge2\\Challenge2.csproj",
-      "projectName": "Challenge2",
-      "projectPath": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge2\\Challenge2\\Challenge2.csproj",
+      "projectUniqueName": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge3\\Challenge3\\Challenge3.csproj",
+      "projectName": "Challenge3",
+      "projectPath": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge3\\Challenge3\\Challenge3.csproj",
       "packagesPath": "C:\\Users\\tthoraldson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge2\\Challenge2\\obj\\",
+      "outputPath": "C:\\Users\\tthoraldson\\Desktop\\Learning C#\\Challenge3\\Challenge3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
